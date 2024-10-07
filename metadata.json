@@ -1,0 +1,8 @@
+{
+  "name": "Lupa",
+  "description": "\"Zoom a little square that follows your cursor\"",
+  "uuid": "lupa@sudo-ramonkey.com",
+  "shell-version": [
+    "46"
+  ]
+}
